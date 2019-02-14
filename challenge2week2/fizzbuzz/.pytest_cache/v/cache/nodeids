@@ -1,0 +1,9 @@
+[
+  "fizzbuzz_test.py::TestFizzBuzz::test_both_empty",
+  "fizzbuzz_test.py::TestFizzBuzz::test_buzz",
+  "fizzbuzz_test.py::TestFizzBuzz::test_fizz",
+  "fizzbuzz_test.py::TestFizzBuzz::test_fizz_buzz",
+  "fizzbuzz_test.py::TestFizzBuzz::test_non_list_input",
+  "fizzbuzz_test.py::TestFizzBuzz::test_non_list_inputs",
+  "fizzbuzz_test.py::TestFizzBuzz::test_other_total"
+]
